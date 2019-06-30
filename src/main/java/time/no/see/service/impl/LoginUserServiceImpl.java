@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import time.no.see.mapper.UserMapper;
-import time.no.see.model.User;
+import time.no.see.model.beans.User;
 import time.no.see.service.LoginUserService;
 
 @Service

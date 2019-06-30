@@ -1,4 +1,4 @@
-package time.no.see.model;
+package time.no.see.model.beans;
 
 public class User {
 

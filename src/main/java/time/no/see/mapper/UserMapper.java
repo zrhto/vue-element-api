@@ -2,7 +2,7 @@ package time.no.see.mapper;
 
 import org.apache.ibatis.annotations.Mapper;
 
-import time.no.see.model.User;
+import time.no.see.model.beans.User;
 
 
 @Mapper

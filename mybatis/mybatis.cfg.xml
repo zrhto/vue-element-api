@@ -7,6 +7,6 @@
                 <setting name="cacheEnabled" value="true"/>
         </settings>
         <typeAliases>
-                <package name="time.no.see.model" />
+                <package name="time.no.see.model.beans" />
         </typeAliases>
 </configuration>
