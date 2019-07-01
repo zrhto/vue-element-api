@@ -113,7 +113,7 @@
 
 
 	<build>
-		<finalName>Shiro-SpringMvc</finalName>
+		<finalName>vue-admin-api</finalName>
 	</build>
 
 

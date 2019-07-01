@@ -1,6 +1,5 @@
-package time.no.see.shiro.filter;
+package are.you.ok.shiro.filter;
 
-import javax.naming.spi.DirStateFactory.Result;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import org.apache.shiro.web.filter.authc.UserFilter;

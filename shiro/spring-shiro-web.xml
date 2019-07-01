@@ -44,7 +44,7 @@
 	</bean>
 	
 	<!-- Shiro的Web过滤器 -->
-	<bean id="loginUserFilter" class="time.no.see.shiro.filter.LoginUserFilter"></bean>
+	<bean id="loginUserFilter" class="are.you.ok.shiro.filter.LoginUserFilter"></bean>
 	<bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
 		<property name="securityManager" ref="securityManager" />
 <!-- 		<property name="loginUrl" value="/login" />

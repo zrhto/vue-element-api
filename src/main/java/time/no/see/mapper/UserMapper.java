@@ -9,5 +9,6 @@ import time.no.see.model.beans.User;
 public interface UserMapper {
 
 	User getUserByUsername(String username);
-
+	
+	
 }
